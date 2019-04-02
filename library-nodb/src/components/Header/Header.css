@@ -1,0 +1,14 @@
+.header{
+    display: flex;
+    height: 620px;
+    width: 100%;
+    background-image: url('http://66.media.tumblr.com/658284cb67baa2b230e756fc9658891e/tumblr_n94x8yQQle1trmh0fo1_1280.jpg');
+    background-repeat: no-repeat;
+    background-attachment: local;
+    
+    
+}
+
+.header-div{
+    font-size: 100px;
+}

@@ -1,0 +1,33 @@
+.library-body {
+  background: #ecd1d6;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  /* flex-grow: 4; */
+  /* align-content: space-around; */
+  font-size: 20px;
+  justify-content: space-between;
+  width: 1000px;
+  height: 900px;
+  margin: 0 auto;
+}
+
+.map-body {
+  width: 100px;
+  height: 100px;
+}
+
+.library-body > p {
+  font-size: 15px;
+}
+
+.library-body > h1 {
+  font-size: 25px;
+}
+
+.image {
+  display: flex;
+  flex-direction: row;
+  max-width: 50px;
+  max-height: 80px;
+}
